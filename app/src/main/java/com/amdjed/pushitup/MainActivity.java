@@ -55,5 +55,6 @@ public class MainActivity extends AppCompatActivity {
     private void pushUp(){
         int i=1+2;
         System.out.println("hello, b0ss");
+        System.out.print("why r'u noob?");
     }
 }
